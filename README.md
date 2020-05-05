@@ -4,4 +4,4 @@
 
 # HTB CLI 🧙‍♂️
 
-Just a Hack The Box CLI to cancel box reboots without having to access the shoutbox :)
+Just a Hack The Box CLI to cancel Box reboots without having to access the shoutbox :)
